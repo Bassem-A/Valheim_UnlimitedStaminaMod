@@ -1,3 +1,9 @@
+(THIS WAS MADE IN THE FIRST HALF OF 2021)
+
+
+``Doesn't work anymore because the addresses and offsets keep changing with every patch``
+
+
 # Valheim_UnlimitedStaminaMod
 This app makes it so your character will always have max stamina via adding stamina constantly.
 
