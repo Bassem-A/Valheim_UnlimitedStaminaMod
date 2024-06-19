@@ -18,6 +18,6 @@ How was this project made:
   
   4- Accessing the memory using the offsets found in step 2
   
-  5- Then finally changing the value continually to achive unlimited stamina
+  5- Then finally changing the value continually to achieve unlimited stamina
   
 
